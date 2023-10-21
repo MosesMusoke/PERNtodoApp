@@ -57,10 +57,10 @@ The server will run on http://localhost:5000.
 ### End Points to use
 
 API Endpoints
-GET http://localhost/todos: Retrieve all todos.
-POST http://localhost/todos: Add a new todo.
-PUT http://localhost/todos/id: Update a todo by ID.
-DELETE http://localhost/todos/id: Delete a todo by ID.
+GET http://localhost:5000/todos : Retrieve all todos.
+POST http://localhost:5000/todos : Add a new todo.
+PUT http://localhost/todos:5000/id : Update a todo by ID.
+DELETE http://localhost/todos:5000/id : Delete a todo by ID.
 
 
 ### Contributions
